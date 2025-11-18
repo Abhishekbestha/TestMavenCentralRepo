@@ -2,11 +2,10 @@ name: Maven Central Publish
 
 on:
   push:
-      branches:
+    branches:
       - main
     tags:
       - 'v*'
-
 jobs:
   build:
     runs-on: ubuntu-latest
