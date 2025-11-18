@@ -10,7 +10,7 @@
 
   <name>Test Library</name>
   <description>Sample project for Maven Central publish</description>
-  <url>https://github.com/your/repo</url>
+  <url>https://github.com/Abhishekbestha/TestMavenCentralRepo.git</url>
 
   <licenses>
     <license>
@@ -20,9 +20,9 @@
   </licenses>
 
   <scm>
-    <url>https://github.com/your/repo</url>
-    <connection>scm:git:https://github.com/your/repo.git</connection>
-    <developerConnection>scm:git:https://github.com/your/repo.git</developerConnection>
+    <url>https://github.com/Abhishekbestha/TestMavenCentralRepo.git</url>
+    <connection>scm:git:https://github.com/Abhishekbestha/TestMavenCentralRepo.git</connection>
+    <developerConnection>scm:git:https://github.com/Abhishekbestha/TestMavenCentralRepo.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
 
