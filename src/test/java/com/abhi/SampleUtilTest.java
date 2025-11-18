@@ -1,4 +1,5 @@
 package com.abhi;
+// Test class for SampleUtil
 
 import org.junit.Test;
 import static org.junit.Assert.*;
